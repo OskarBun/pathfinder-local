@@ -24,6 +24,7 @@
     "ascoltatori": "~0.6.0",
     "async": "~0.2.9",
     "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
     "express": "~3.1.0",
     "mongodb": "~1.2.13",
     "mqtt": "~0.2.10",
