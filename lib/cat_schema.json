@@ -1,0 +1,17 @@
+{
+    "item-metadata": [
+        {
+            "val": "application/vnd.tsbiot.catalogue+json",
+            "rel": "urn:X-tsbiot:rels:isContentType"
+        },
+        {
+            "val": "Sphere - Local device catalogue",
+            "rel": "urn:X-tsbiot:rels:hasDescription:en"
+        },
+        {
+            "val": "urn:X-tsbiot:search:simple",
+            "rel": "urn:X-tsbiot:rels:supportsSearch"
+        }
+    ],
+    "items": []
+}
