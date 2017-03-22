@@ -2,3 +2,5 @@ jspm_packages
 dump.rdb
 node_modules
 .env
+
+hyperdump.json
